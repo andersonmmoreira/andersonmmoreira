@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou o Anderson, estudo desenvolvimento full stack apaixonao por tecnologia</h1>
+<h1>👋 &nbsp;Olá, eu sou o Anderson, estudo desenvolvimento full stack, sou apaixonado por tecnologia</h1>
 <p align="center">
 <a href="https://www.instagram.com/andersondmm/"><img src="https://img.shields.io/badge/-@andersonmoreira_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <!-- <a href="https://dicasparadevs.com.br"><img src="https://img.shields.io/badge/-dicasparadevs.com.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a> -->
