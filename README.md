@@ -4,7 +4,7 @@
 <!-- <a href="https://dicasparadevs.com.br"><img src="https://img.shields.io/badge/-dicasparadevs.com.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a> -->
 <!-- <a href="https://www.youtube.com/channel/UC8TRfZVb-M_ivbU9yiocTvQ"><img src="https://img.shields.io/badge/-dicasparadevs-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a> -->
 <a href="https://www.linkedin.com/in/anderson-moreira-7a0177172"><img src="https://img.shields.io/badge/-Anderson%20M%20Moreira-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:anderson.d.mm@hotmail.com"><img src="https://img.shields.io/badge/-anderson.d.mm@hotmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:anderson.d.mm@hotmail.com"><img src="https://img.shields.io/badge/-anderson.d.mm@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 
 </p>
 
@@ -44,4 +44,5 @@
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
 ![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andersonmmoreira&show_icons=true&theme=dracula)
+
 # andersonmmoreira
