@@ -1,6 +1,6 @@
 <h1>👋 &nbsp;Olá, eu sou o Anderson, estudo desenvolvimento full stack, sou apaixonado por tecnologia</h1>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<!-- <div style="display: flex; justify-content: center; gap: 10px;"> -->
   <a href="https://www.instagram.com/andersondmm/">
     <img src="https://img.shields.io/badge/-@andersonmoreira_-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"  />
   </a>
@@ -12,7 +12,7 @@
   <a href="mailto:anderson.d.mm@hotmail.com">
     <img src="https://img.shields.io/badge/-anderson.d.mm@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"  />
   </a>
-</div>
+<!-- </div> -->
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
