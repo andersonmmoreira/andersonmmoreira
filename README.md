@@ -11,11 +11,11 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Eu sempre fui apaixonado por tecnologia, e meu primeiro contato com o desenvolvimento foi aos 9 anos, quando tentei montar um servidor de Mu Online. Alguns anos depois, ingressei na área de tecnologia, mas direcionado para a Gestão de TI, onde atuo hoje como Gerente de TI há 12 anos.
+<!-- - 👨🏻‍💻 Em Breve! &nbsp; Eu sempre fui apaixonado por tecnologia, e meu primeiro contato com o desenvolvimento foi aos 9 anos, quando tentei montar um servidor de Mu Online. Alguns anos depois, ingressei na área de tecnologia, mas direcionado para a Gestão de TI, onde atuo hoje como Gerente de TI há 12 anos.
 - 💚 &nbsp; Conforme fui adquirindo experiência na área, percebi o quão fascinante é o mundo da tecnologia. Isso me motivou a migrar para o desenvolvimento e a me aprofundar ainda mais nesse campo.
 - 🚀 &nbsp; Atualmente, sou Gerente de TI na CITINOVA, uma secretaria da Prefeitura Municipal de Fortaleza. Estou me dedicando aos estudos para ingressar na área de desenvolvimento full stack, buscando ampliar ainda mais meus conhecimentos e habilidades em tecnologia.
 - 🎮 &nbsp; Sou um grande apreciador de esportes e apaixonado pela natureza. Gosto de fazer trilhas e remar de canoa havaiana. No meu tempo livre, aprecio assistir a séries e filmes com a família e, ocasionalmente, jogar um pouco de videogame.
-- 🍕 &nbsp; Atualmente, além de trabalhar como Gerente de TI, também gerencio uma pizzaria, que é um negócio de família. Um dos motivos que me levou a estudar desenvolvimento é a busca por soluções para problemas que ainda vejo sem resposta satisfatória no mercado.
+- 🍕 &nbsp; Atualmente, além de trabalhar como Gerente de TI, também gerencio uma pizzaria, que é um negócio de família. Um dos motivos que me levou a estudar desenvolvimento é a busca por soluções para problemas que ainda vejo sem resposta satisfatória no mercado. -->
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
