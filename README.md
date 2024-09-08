@@ -42,4 +42,4 @@
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Anderson M. Moreira GitHub Stats](https://github-readme-stats.vercel.app/api?username=andersonmmoreira&show_icons=true&theme=dracula)
+![Anderson M Moreira GitHub Stats](https://github-readme-stats.vercel.app/api?username=andersonmmoreira&show_icons=true&theme=dracula)
