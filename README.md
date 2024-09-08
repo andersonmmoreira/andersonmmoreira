@@ -2,15 +2,15 @@
 
 <!-- <div style="display: flex; justify-content: center; gap: 10px;"> -->
   <a href="https://www.instagram.com/andersondmm/">
-    <img src="https://img.shields.io/badge/-@andersonmoreira_-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"  />
+    <img src="https://img.shields.io/badge/@andersonmoreira_-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"  />
   </a>
   
   <a href="https://www.linkedin.com/in/anderson-moreira-7a0177172">
-    <img src="https://img.shields.io/badge/-Anderson%20M%20Moreira-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"  />
+    <img src="https://img.shields.io/badge/Anderson%20M%20Moreira-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"  />
   </a>
   
   <a href="mailto:anderson.d.mm@hotmail.com">
-    <img src="https://img.shields.io/badge/-anderson.d.mm@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"  />
+    <img src="https://img.shields.io/badge/anderson.d.mm@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"  />
   </a>
 <!-- </div> -->
 
